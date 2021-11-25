@@ -13,3 +13,5 @@ TODOs :
 - Implement standards filters (recently viewed, this month, etc)
 - Implement formula filters
 - Implement record groupping
+- Clean structure, make it virtual.
+- Implement useless features as report execution, records extraction and compression, etc.
